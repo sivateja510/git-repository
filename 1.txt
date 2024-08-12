@@ -1,1 +1,1 @@
-Created first-file and edited using vim command
+Created first-file and edited using vim command and edited to see status
